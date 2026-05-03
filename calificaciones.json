@@ -7,8 +7,13 @@
     },
     {
       "nombre": "Programacion",
-      "dia": "Miércoles",
+      "dia": "MiÃ©rcoles",
       "hora": "12:00"
+    },
+    {
+      "nombre": "Programacion",
+      "dia": "Jueves",
+      "hora": "10:00"
     }
   ],
   "alumnos": []
