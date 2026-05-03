@@ -4,6 +4,11 @@
       "nombre": "Programacion",
       "dia": "Lunes",
       "hora": "09:00"
+    },
+    {
+      "nombre": "Programacion",
+      "dia": "Miércoles",
+      "hora": "12:00"
     }
   ],
   "alumnos": []
