@@ -1,1 +1,10 @@
-[]
+{
+  "materias": [
+    {
+      "nombre": "Programacion",
+      "dia": "Lunes",
+      "hora": "09:00"
+    }
+  ],
+  "alumnos": []
+}
