@@ -8,6 +8,11 @@
       "nombre": "Automatas",
       "dia": "Lunes",
       "hora": "12:30"
+    },
+    {
+      "nombre": "Automatas",
+      "dia": "Martes",
+      "hora": "08:00"
     }
   ],
   "alumnos": []
