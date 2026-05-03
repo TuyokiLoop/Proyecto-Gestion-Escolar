@@ -1,1 +1,8 @@
-[]
+{
+  "materias": [
+    "Matemáticas",
+    "Español",
+    "Automatas"
+  ],
+  "alumnos": []
+}
