@@ -3,7 +3,12 @@
     "Matemáticas",
     "Español",
     "Automatas",
-    "Automatas"
+    "Automatas",
+    {
+      "nombre": "Automatas",
+      "dia": "Lunes",
+      "hora": "12:30"
+    }
   ],
   "alumnos": []
 }
